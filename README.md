@@ -1,0 +1,2 @@
+# EmbeedCourseDesign
+2020年嵌入式课程设计，使用PyQt和SQLite开发一个简易的用户管理程序
